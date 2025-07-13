@@ -23,7 +23,7 @@ This Power BI dashboard presents an insightful analysis of stock market trends, 
 
 
 🔗 View Dashboard
-👉 [Download PBIX](https://github.com/DishaS08/repo-name/raw/main/stock_market_dashboard.pbix)
+👉 [Download PBIX](https://github.com/DishaS08/repo-name/raw/main/PowerBI_Stock_Market_Analysis.pbix)
 
 
 
